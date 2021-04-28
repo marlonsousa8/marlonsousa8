@@ -7,6 +7,9 @@
 ### About me
 I'm a {backend, Machine Learning and Deep Learning} enginner (https://marlonsousa.medium.com).
 
-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 🤖 - Machine Learning Enginner technologies, such as Tensorflow, Keras, Sklearn, Pytorch, Django, Flask, Python
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonsousa8)](https://github.com/anuraghazra/github-readme-stats)
+
+
+🤖 - Machine Learning Enginner technologies, such as Tensorflow, Keras, Sklearn, Pytorch, Django, Flask, Python
 - [Blog](https://marlonsousa.medium.com) ✍🏼 - I'm write about many things.
 - [Website](https://marlonsousa.medium.com) 💻 - Working on it.
