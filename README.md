@@ -7,7 +7,8 @@
 ### About me
 I'm a {backend, Machine Learning and Deep Learning} enginner [Blog Main](https://marlonsousa.medium.com).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonsousa8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonsousa8&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonsousa8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 🤖 - Machine Learning Enginner technologies, such as Tensorflow, Keras, Sklearn, Pytorch, Django, Flask, Python
