@@ -13,6 +13,6 @@ I'm a {backend, Machine Learning and Deep Learning} enginner [Blog Main](https:/
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonsousa8&layout=compact&theme=dark)
 
 
-🤖 - Machine Learning Enginner technologies, such as Tensorflow, Keras, Sklearn, Pytorch, Django, Flask, Python
+🤖 - Machine Learning Enginner technologies, such as Tensorflow, Keras, Sklearn, Pytorch, Django, Flask, Python, C, C++, C#
 - [Blog](https://marlonsousa.medium.com) ✍🏼 - I'm write about many things.
 - [Website](https://marlonsousa.medium.com) 💻 - Working on it.
