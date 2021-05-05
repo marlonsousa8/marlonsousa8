@@ -5,13 +5,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marlonsousa8)](https://twitter.com/marlonsousa8)
 
 ![](https://www.codewars.com/users/franciscosimiao8/badges/large)
-
-### About me
-I'm a {backend, Machine Learning and Deep Learning} enginner [Blog Main](https://marlonsousa.medium.com).
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonsousa8&show_icons=true&theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonsousa8&layout=compact&theme=dark)
 
+### About me
+I'm a {backend, Machine Learning and Deep Learning} enginner [Blog Main](https://marlonsousa.medium.com).
 
 🤖 - Machine Learning Enginner technologies, such as Tensorflow, Keras, Sklearn, Pytorch, Django, Flask, Python, C, C++, C#
 - [Blog](https://marlonsousa.medium.com) ✍🏼 - I'm write about many things.
