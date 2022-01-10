@@ -11,6 +11,6 @@
 
 
 ### About me
-I'm a {backend, Machine Learning and Deep Learning} researcher [Blog Main](https://marlonsousa.medium.com).
+I'm a {Machine Learning and Deep Learning} researcher [Blog Main](https://marlonsousa.medium.com).
 
 Machine Learning, such as Tensorflow, Keras, Sklearn, Pytorch, Django, Flask, Python, C, C++
