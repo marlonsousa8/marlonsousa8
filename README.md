@@ -34,6 +34,6 @@ Machine Learning, such as Tensorflow, Keras, Sklearn, Pytorch, Django, Flask, Py
   <a href = "mailto:marlonsousa8@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marlonsousa8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/marlonsousa8/marlonsousa8/blob/output/github-contribution-grid-snake.svg)
  
 </div>
