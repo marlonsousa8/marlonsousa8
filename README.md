@@ -14,3 +14,5 @@
 I'm a {Machine Learning and Deep Learning} researcher [Blog Main](https://marlonsousa.medium.com).
 
 Machine Learning, such as Tensorflow, Keras, Sklearn, Pytorch, Django, Flask, Python, C, C++
+
+![Snake animation](https://github.com/rafaballerini/marlonsousa8/blob/output/github-contribution-grid-snake.svg)
