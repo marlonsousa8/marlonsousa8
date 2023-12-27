@@ -6,9 +6,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/marlononion">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marlononion&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlononion&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/marlonsousas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marlonsousas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonsousas&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
@@ -32,6 +32,6 @@ Machine Learning, such as Tensorflow, Keras, Sklearn, Pytorch, Django, Flask, Py
   <a href = "mailto:marlonsousa8@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marlonsousa8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/marlononion/marlononion/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/marlonsousas/marlonsousas/blob/output/github-contribution-grid-snake.svg)
  
 </div>
