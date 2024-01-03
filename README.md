@@ -1,7 +1,7 @@
 # Marlon Sousa <br>
 
 <div align="center"> 
-  <img src="https://www.codewars.com/users/marlonsousa8/badges/large?logo=true" />
+  <img src="https://www.codewars.com/users/marlonsousa/badges/large" />
 </div>
 
 
