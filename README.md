@@ -1,10 +1,5 @@
 # Marlon Sousa <br>
 
-<div align="center"> 
-  <img src="https://www.codewars.com/users/marlonsousa/badges/large" />
-</div>
-
-
 <div align="center">
   <a href="https://github.com/marlonsousas">
   <br>
