@@ -16,7 +16,7 @@
 </div>
 
 ### About me
-I'm a{Machine Learning and Deep Learning engineer [Research Gate](https://www.researchgate.net/profile/Marlon-Sousa).
+I'm a {Machine Learning and Deep Learning} engineer [Research Gate](https://www.researchgate.net/profile/Marlon-Sousa).
 
 Machine Learning, such as Tensorflow, Keras, Sklearn, Pytorch, Django, Flask, Python, C, C++ and Java
 
