@@ -30,12 +30,6 @@
 </div>
 
 
-### About me
-I'm a {Machine Learning and Deep Learning} engineer [Research Gate](https://www.researchgate.net/profile/Marlon-Sousa).
-
-Machine Learning, such as Tensorflow, Keras, Sklearn, Pytorch, Django, Flask, Python, C, C++ and Java
-
-
 <div align="center"> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" target="_blank">
