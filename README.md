@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages</h3>
 <div style="display: inline_block" align="center"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
